@@ -87,8 +87,7 @@ streamlit run calendar_chatgpt_google_integration.py
 
 ```
 NLgooglecal/
-├── calendar_chatgpt_google_integration.py    # 메인 Streamlit 앱
-├── calendar_chatgpt_google_integration_DEBUG.py  # 디버깅 버전
+├── calendar_chatgpt_google_integration_DEBUG.py  # main앱
 ├── requirements.txt                          # 파이썬 의존성
 ├── .env.example                             # 환경 변수 예시
 ├── .gitignore                               # Git 제외 파일
@@ -151,19 +150,6 @@ GOOGLE_CREDENTIALS_PATH=service_account.json
 - "팀 미팅", "친구 생일", "병원 예약"
 ```
 
-## 📊 디버깅 버전
-
-문제가 발생했을 때는 디버깅 버전을 사용하세요:
-
-```bash
-streamlit run calendar_chatgpt_google_integration_DEBUG.py
-```
-
-**디버깅 버전의 장점:**
-- 터미널에 상세한 로그 출력
-- 각 단계의 처리 과정 추적
-- 에러 메시지 상세 분석
-- Google Calendar 초기화 상태 확인
 
 ## 🐛 문제 해결
 
