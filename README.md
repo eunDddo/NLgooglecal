@@ -1,4 +1,4 @@
-# 🗓️ NLgooglecal - Natural Language Google Calendar Manager
+# 🗓️ NLgooglecal - NL Google Calendar Manager
 자연어(Natural Language)로 Google Calendar에 일정을 추가하는 AI 기반 애플리케이션입니다. OpenAI의 GPT를 사용해 사용자의 자연스러운 한국어 입력을 분석하여 Google Calendar에 자동으로 일정을 등록합니다.
 
 ## ✨ 주요 기능
