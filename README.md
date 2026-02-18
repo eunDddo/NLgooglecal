@@ -293,7 +293,7 @@ tail -20 gpt_queries.log
 - [ ] 모바일 앱 개발 (Flutter/React Native)
 - [ ] 여러 언어 지원
 
-**만든이**: Team BDAI  
+**만든이**: Team BDAI - Eunseo
 **최종 업데이트**: 2025년 2월 18일
 
 **Happy Scheduling! 🗓️✨**
